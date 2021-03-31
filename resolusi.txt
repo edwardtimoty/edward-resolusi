@@ -1,4 +1,5 @@
 Resolusi :
-- Konsisten untuk ngoding tiap hari
-- Belajar koding sampai mahir dan paham 
-- Membuat berbagai project
+1. Konsisten untuk ngoding tiap hari
+2. Belajar koding sampai mahir dan paham 
+3. Membuat berbagai project
+4. Menjadi Fullstack Developer untuk Web Developer & Game Developer
